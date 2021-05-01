@@ -5,7 +5,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name="colorwheel-generator5",
+    name="colorwheel",
     version="1.0.0",
     description="Generate multi-color colorwheels",
     long_description=README,
