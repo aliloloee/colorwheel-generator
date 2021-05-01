@@ -31,9 +31,13 @@
 
 <h2>Example</h2>
 <p>from colorwheel import ColorWheel</p>
-<p>cw = ColorWheel()</p>
+<p>cw = ColorWheel()  <rm>## colorwheel with 12 colors</rm></p>
 <p>cw.show()</p>
 <img src="https://github.com/aliloloee/colorwheel-generator/blob/main/12.png?raw=true" alt="12 colored colorwheel"></img>
+
+<p>cw = ColorWheel(color_number=7200, lines=False, center_circle=False)  <rm>## colorwheel with 7200 colors</rm></p>
+<p>cw.show()</p>
+<img src="https://github.com/aliloloee/colorwheel-generator/blob/main/7200.png?raw=true" alt="7200 colored colorwheel"></img>
 
 <h3>Github address</h3>
 <a href="https://github.com/aliloloee">github.com/aliloloee</a>
