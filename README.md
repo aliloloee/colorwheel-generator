@@ -33,7 +33,7 @@
 <p>from colorwheel import ColorWheel</p>
 <p>cw = ColorWheel()</p>
 <p>cw.show()</p>
-<img src="#" alt="12 colored colorwheel"></img>
+<img src="https://github.com/aliloloee/colorwheel-generator/blob/main/12.png?raw=true" alt="12 colored colorwheel"></img>
 
 <h3>Github address</h3>
 <a href="https://github.com/aliloloee">github.com/aliloloee</a>
